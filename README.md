@@ -44,7 +44,8 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 [![Image of https://github.com/Manu-Developer/Profile-Views-Counter](https://github.com/Manu-Developer/Profile-Views-Counter/blob/master/svg/profile/badge.svg)](https://github.com/Manu-Developer/Profile-Views-Counter)
 
 ### Other Stat
-https://visitor-badge.laobi.icu/badge?page_id=manu-developer
+<img alt="Response time graph" src="https://visitor-badge.laobi.icu/badge?page_id=manu-developer.visitor-badge" height="20">
+
 
 ```readme
 [![Image of https://github.com/Manu-Developer/Profile-Views-Counter](https://github.com/Manu-Developer/Profile-Views-Counter/blob/master/svg/profile/badge.svg)](https://github.com/Manu-Developer/Profile-Views-Counter)

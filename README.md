@@ -43,6 +43,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 ### Total Views Badge
 [![Image of https://github.com/Manu-Developer/Profile-Views-Counter](https://github.com/Manu-Developer/Profile-Views-Counter/blob/master/svg/profile/badge.svg)](https://github.com/Manu-Developer/Profile-Views-Counter)
 
+### Other Stat
+https://visitor-badge.laobi.icu/badge?page_id=manu-developer
+
 ```readme
 [![Image of https://github.com/Manu-Developer/Profile-Views-Counter](https://github.com/Manu-Developer/Profile-Views-Counter/blob/master/svg/profile/badge.svg)](https://github.com/Manu-Developer/Profile-Views-Counter)
 ```
